@@ -42,6 +42,7 @@ Instalación, configuración y mantenimiento de sistemas de CCTV,
 
 Soporte remoto para clientes  residenciales
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🧩 Colaboración con empresas del sector tecnológico
 
