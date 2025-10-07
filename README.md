@@ -7,6 +7,7 @@
 
 🛠️ Mi objetivo es ofrecer soluciones seguras, eficientes y confiables en sistemas de videovigilancia, combinando atención al cliente, conocimiento en redes y compromiso con la protección de cada cliente.
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⚙️ Tecnologías y Herramientas
 
@@ -20,6 +21,8 @@ Configuración de cámaras de seguridad
 
 Soporte remoto y mantenimiento preventivo
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 📚 Formación y Certificaciones
 
@@ -29,6 +32,7 @@ Soporte remoto y mantenimiento preventivo
 
 📘 En formación continua en tecnología, redes 
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🧰 Experiencia y Proyectos
 
@@ -49,6 +53,7 @@ Referencia: MONITEC de Panamá — modelo de gestión técnica y atención al cl
 📧 sharonelizabeth50725@gmail.com
 
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🌟 Sobre mí
 
