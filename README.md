@@ -1,9 +1,10 @@
-# Sharon-Camarena-Marca-Digital
+# Sharon-Camarena
 
-Sharon Camarena
 
 🎥 Asistente de Soporte Técnico en CCTV — Soporte Seguro
+
 💻 Estudiante de la Universidad Tecnologíca de Panamá de la carrera de Ciberseguridad, apasionada por la tecnología, la seguridad y el monitoreo electrónico.
+
 🛠️ Mi objetivo es ofrecer soluciones seguras, eficientes y confiables en sistemas de videovigilancia, combinando atención al cliente, conocimiento en redes y compromiso con la protección de cada cliente.
 
 ⚙️ Tecnologías y Herramientas
