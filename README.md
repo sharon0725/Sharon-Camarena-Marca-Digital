@@ -33,7 +33,7 @@ Soporte remoto y mantenimiento preventivo
 
 Instalación, configuración y mantenimiento de sistemas de CCTV,
 
-Soporte remoto y presencial para clientes  residenciales
+Soporte remoto para clientes  residenciales
 
 
 🧩 Colaboración con empresas del sector tecnológico
